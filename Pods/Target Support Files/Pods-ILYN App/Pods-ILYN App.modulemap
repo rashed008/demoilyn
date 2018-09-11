@@ -1,0 +1,6 @@
+framework module Pods_ILYN_App {
+  umbrella header "Pods-ILYN App-umbrella.h"
+
+  export *
+  module * { export * }
+}
